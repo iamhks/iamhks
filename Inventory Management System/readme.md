@@ -28,6 +28,8 @@ This contains the details of the supplier who is supplying the items to the ware
 ## Flow of Process 
 The items are distributed to various Branches by various Warehouses,Main Inventory of Each branch is managed by a manager, the items are ordered by customers, they are imported and if any product is expired they are returned back to the company , If an order is valid the transaction is carried out by either cash or Card.
 
+## ER Diagram
+
 ![ER Diagram](https://github.com/iamhks/projects/blob/master/Inventory%20Management%20System/ER.jpg)
 ![Schema](https://github.com/iamhks/projects/blob/master/Inventory%20Management%20System/Schema.jpg)
 ![Entities@Attributes](https://github.com/iamhks/projects/blob/master/Inventory%20Management%20System/Entity%26Attributes.jpg)
