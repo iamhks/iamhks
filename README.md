@@ -6,7 +6,7 @@ The aim of the project was to make a Database for Chain Of Stores to manage thei
 
 ## Links
 [LinkedIn: iamhks](https://www.linkedin.com/in/iamhks)<br>
-[Twitter: sheroksher](https://twitter.com/sheroksher)<br>
+[Twitter: HKSsher](https://twitter.com/HKSsher)<br>
 [Github: iamhks](https://github.com/iamhks)<br>
 [E-Mail: hks@iamhks.com](mailto:hks@iamhks.com)<br>
 [Website: iamhks.com](https://iamhks.com)<br>
