@@ -4,6 +4,8 @@ A pre-final year computer science student at [NIT Warangal](https://www.nitw.ac.
 ## [Inventory Management System](https://iamhks.com/Inventory-Management-System)
 The aim of the project was to make a Database for Chain Of Stores to manage their Inventory by tracking the Items present and maintaining the transactions for all the items between warehouses to branch and warehouse to warehouse. [Learn more](https://iamhks.com/Inventory-Management-System)
 
+## [SoulSion](https://team-millennials.github.io/)
+SoulSion is basically a Mental Health and Stress Management Web App. This was a Software Engineering project that involved learning documentation involved in the software development life-cycle. [Learn more](https://team-millennials.github.io/)
 
 <b>Social Links:</b> 
         LinkedIn:<a href="https://www.linkedin.com/in/iamhks"> iamhks</a> Twitter: <a href="https://twitter.com/iamhksdotcom">iamhksdotcom</a>  
