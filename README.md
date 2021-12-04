@@ -6,8 +6,10 @@ The aim of the project was to make a Database for Chain Of Stores to manage thei
 
 ## [SoulSion](https://team-millennials.github.io/)
 SoulSion is basically a Mental Health and Stress Management Web App. This was a Software Engineering project that focused on learning the documentation involved in the software development life-cycle. [Learn more](https://team-millennials.github.io/)
-<hr />
 
+## [Open-Soruce Contribution](https://docs.google.com/document/d/1xUEtjmAB7S9dFhSneZTdUXxmnlc89F4Lbg7JkwDpKJQ/edit?usp=sharing)
+Contributed to Open Data Kit (ODK-X) which focuses on collecting, managing, and using data in resource-constrained environments even offline. I contributed to improving their documentation. [Learn more](https://docs.google.com/document/d/1xUEtjmAB7S9dFhSneZTdUXxmnlc89F4Lbg7JkwDpKJQ/edit?usp=sharing)
+<hr />
 <b>Social Links:</b> 
         LinkedIn:<a href="https://www.linkedin.com/in/iamhks"> iamhks</a>   Github: <a href="https://github.com/iamhks">iamhks</a>
         E-Mail: <a href="mailto:hks@iamhks.com">hks@iamhks.com</a>
