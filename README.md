@@ -1,6 +1,9 @@
 # Hemant Kumar Singh (HKS)'s Projects
 A final year computer science student at [NIT Warangal](https://www.nitw.ac.in/)
 
+## [Lie Detection using EEG](https://iamhks.com/Lie-Detection-using-EEG/)
+The goal of the project was to identify whether a person is being truthful or deceptive using an LSTM (long short-term memory)-Based Auto-Encoder Model for EEG (Electroencephalography) Signals. (still in progress)
+
 ## [Inventory Management System](https://iamhks.com/Inventory-Management-System)
 The aim of the project was to make a Database for Chain Of Stores to manage their Inventory by tracking the Items present and maintaining the transactions for all the items between warehouses to branch and warehouse to warehouse. [Learn more](https://iamhks.com/Inventory-Management-System)
 
