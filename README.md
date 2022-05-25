@@ -1,5 +1,5 @@
 # Hemant Kumar Singh (HKS)'s Projects
-A Computer Science Alum from [NIT Warangal](https://www.nitw.ac.in/)
+Computer Science Alum from [NIT Warangal](https://www.nitw.ac.in/)
 
 ## [Lie Detection using EEG](https://iamhks.com/Lie-Detection-using-EEG/)
 The goal of the project was to identify whether a person is being truthful or deceptive using an LSTM (long short-term memory)-Based Auto-Encoder Model for EEG (Electroencephalography) Signals. (still in progress) [Learn more](https://iamhks.com/Lie-Detection-using-EEG/)
