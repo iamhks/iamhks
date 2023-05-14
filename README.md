@@ -11,7 +11,7 @@ The aim of the project was to make a Database for Chain Of Stores to manage thei
 SoulSion is basically a Mental Health and Stress Management Web App. This was a Software Engineering project that focused on learning the documentation involved in the software development life-cycle. [Learn more](https://team-millennials.github.io/)
 
 <hr />
-<b>Social Links:</b> 
+<b>Socials:</b> 
         LinkedIn:<a href="https://www.linkedin.com/in/iamhks"> iamhks</a>   Github: <a href="https://github.com/iamhks">iamhks</a>
         E-Mail: <a href="mailto:hks@iamhks.com">hks@iamhks.com</a>
         Website: <a href="https://iamhks.com">iamhks.com</a>
